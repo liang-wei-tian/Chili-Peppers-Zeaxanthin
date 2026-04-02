@@ -1,1 +1,1 @@
-
+This collection provides multispectral data (365–970 nm) and corresponding chemical measurements for chili pepper (Capsicum annuum L.), supporting both the MCSF model (using measured capsanthin and total carotenoids) and the MCSF‑FR model (using the Composite Red Index, CRI, as a proxy for capsanthin).
