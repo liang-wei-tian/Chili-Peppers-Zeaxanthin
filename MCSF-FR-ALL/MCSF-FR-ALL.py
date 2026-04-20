@@ -15,7 +15,6 @@ import json
 warnings.filterwarnings("ignore")
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-
 # ----------------------
 # RGB指数计算函数
 # ----------------------
